@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nationalities>
+  <nationality>Afghan</nationality>
+  <nationality>Albanian</nationality>
+  <nationality>Algerian</nationality>
+  <nationality>American</nationality>
+  <nationality>Andorran</nationality>
+  <nationality>Angolan</nationality>
+  <nationality>Antiguans</nationality>
+  <nationality>Argentinean</nationality>
+  <nationality>Armenian</nationality>
+  <nationality>Australian</nationality>
+  <nationality>Austrian</nationality>
+  <nationality>Azerbaijani</nationality>
+  <nationality>Bahamian</nationality>
+  <nationality>Bahraini</nationality>
+  <nationality>Bangladeshi</nationality>
+  <nationality>Barbadian</nationality>
+  <nationality>Barbudans</nationality>
+  <nationality>Batswana</nationality>
+  <nationality>Belarusian</nationality>
+  <nationality>Belgian</nationality>
+  <nationality>Belizean</nationality>
+  <nationality>Beninese</nationality>
+  <nationality>Bhutanese</nationality>
+  <nationality>Bolivian</nationality>
+  <nationality>Bosnian</nationality>
+  <nationality>Brazilian</nationality>
+  <nationality>British</nationality>
+  <nationality>Bruneian</nationality>
+  <nationality>Bulgarian</nationality>
+  <nationality>Burkinabe</nationality>
+  <nationality>Burmese</nationality>
+  <nationality>Burundian</nationality>
+  <nationality>Cambodian</nationality>
+  <nationality>Cameroonian</nationality>
+  <nationality>Canadian</nationality>
+  <nationality>Cape Verdean</nationality>
+  <nationality>Central African</nationality>
+  <nationality>Chadian</nationality>
+  <nationality>Chilean</nationality>
+  <nationality>Chinese</nationality>
+  <nationality>Colombian</nationality>
+  <nationality>Comoran</nationality>
+  <nationality>Congolese</nationality>
+  <nationality>Costa Rican</nationality>
+  <nationality>Croatian</nationality>
+  <nationality>Cuban</nationality>
+  <nationality>Cypriot</nationality>
+  <nationality>Czech</nationality>
+  <nationality>Danish</nationality>
+  <nationality>Djibouti</nationality>
+  <nationality>Dominican</nationality>
+  <nationality>Dutch</nationality>
+  <nationality>East Timorese</nationality>
+  <nationality>Ecuadorean</nationality>
+  <nationality>Egyptian</nationality>
+  <nationality>Emirian</nationality>
+  <nationality>Equatorial Guinean</nationality>
+  <nationality>Eritrean</nationality>
+  <nationality>Estonian</nationality>
+  <nationality>Ethiopian</nationality>
+  <nationality>Fijian</nationality>
+  <nationality>Filipino</nationality>
+  <nationality>Finnish</nationality>
+  <nationality>French</nationality>
+  <nationality>Gabonese</nationality>
+  <nationality>Gambian</nationality>
+  <nationality>Georgian</nationality>
+  <nationality>German</nationality>
+  <nationality>Ghanaian</nationality>
+  <nationality>Greek</nationality>
+  <nationality>Grenadian</nationality>
+  <nationality>Guatemalan</nationality>
+  <nationality>Guinea-Bissauan</nationality>
+  <nationality>Guinean</nationality>
+  <nationality>Guyanese</nationality>
+  <nationality>Haitian</nationality>
+  <nationality>Herzegovinian</nationality>
+  <nationality>Honduran</nationality>
+  <nationality>Hungarian</nationality>
+  <nationality>I-Kiribati</nationality>
+  <nationality>Icelander</nationality>
+  <nationality>Indian</nationality>
+  <nationality>Indonesian</nationality>
+  <nationality>Iranian</nationality>
+  <nationality>Iraqi</nationality>
+  <nationality>Irish</nationality>
+  <nationality>Israeli</nationality>
+  <nationality>Italian</nationality>
+  <nationality>Ivorian</nationality>
+  <nationality>Jamaican</nationality>
+  <nationality>Japanese</nationality>
+  <nationality>Jordanian</nationality>
+  <nationality>Kazakhstani</nationality>
+  <nationality>Kenyan</nationality>
+  <nationality>Kittian and Nevisian</nationality>
+  <nationality>Kuwaiti</nationality>
+  <nationality>Kyrgyz</nationality>
+  <nationality>Laotian</nationality>
+  <nationality>Latvian</nationality>
+  <nationality>Lebanese</nationality>
+  <nationality>Liberian</nationality>
+  <nationality>Libyan</nationality>
+  <nationality>Liechtensteiner</nationality>
+  <nationality>Lithuanian</nationality>
+  <nationality>Luxembourger</nationality>
+  <nationality>Macedonian</nationality>
+  <nationality>Malagasy</nationality>
+  <nationality>Malawian</nationality>
+  <nationality>Malaysian</nationality>
+  <nationality>Maldivan</nationality>
+  <nationality>Malian</nationality>
+  <nationality>Maltese</nationality>
+  <nationality>Marshallese</nationality>
+  <nationality>Mauritanian</nationality>
+  <nationality>Mauritian</nationality>
+  <nationality>Mexican</nationality>
+  <nationality>Micronesian</nationality>
+  <nationality>Moldovan</nationality>
+  <nationality>Monacan</nationality>
+  <nationality>Mongolian</nationality>
+  <nationality>Moroccan</nationality>
+  <nationality>Mosotho</nationality>
+  <nationality>Motswana</nationality>
+  <nationality>Mozambican</nationality>
+  <nationality>Namibian</nationality>
+  <nationality>Nauruan</nationality>
+  <nationality>Nepalese</nationality>
+  <nationality>New Zealander</nationality>
+  <nationality>Nicaraguan</nationality>
+  <nationality>Nigerian</nationality>
+  <nationality>Nigerien</nationality>
+  <nationality>North Korean</nationality>
+  <nationality>Northern Irish</nationality>
+  <nationality>Norwegian</nationality>
+  <nationality>Omani</nationality>
+  <nationality>Pakistani</nationality>
+  <nationality>Palauan</nationality>
+  <nationality>Panamanian</nationality>
+  <nationality>Papua New Guinean</nationality>
+  <nationality>Paraguayan</nationality>
+  <nationality>Peruvian</nationality>
+  <nationality>Polish</nationality>
+  <nationality>Portuguese</nationality>
+  <nationality>Qatari</nationality>
+  <nationality>Romanian</nationality>
+  <nationality>Russian</nationality>
+  <nationality>Rwandan</nationality>
+  <nationality>Saint Lucian</nationality>
+  <nationality>Salvadoran</nationality>
+  <nationality>Samoan</nationality>
+  <nationality>San Marinese</nationality>
+  <nationality>Sao Tomean</nationality>
+  <nationality>Saudi</nationality>
+  <nationality>Scottish</nationality>
+  <nationality>Senegalese</nationality>
+  <nationality>Serbian</nationality>
+  <nationality>Seychellois</nationality>
+  <nationality>Sierra Leonean</nationality>
+  <nationality>Singaporean</nationality>
+  <nationality>Slovakian</nationality>
+  <nationality>Slovenian</nationality>
+  <nationality>Solomon Islander</nationality>
+  <nationality>Somali</nationality>
+  <nationality>South African</nationality>
+  <nationality>South Korean</nationality>
+  <nationality>Spanish</nationality>
+  <nationality>Sri Lankan</nationality>
+  <nationality>Sudanese</nationality>
+  <nationality>Surinamer</nationality>
+  <nationality>Swazi</nationality>
+  <nationality>Swedish</nationality>
+  <nationality>Swiss</nationality>
+  <nationality>Syrian</nationality>
+  <nationality>Taiwanese</nationality>
+  <nationality>Tajik</nationality>
+  <nationality>Tanzanian</nationality>
+  <nationality>Thai</nationality>
+  <nationality>Togolese</nationality>
+  <nationality>Tongan</nationality>
+  <nationality>Trinidadian or Tobagonian</nationality>
+  <nationality>Tunisian</nationality>
+  <nationality>Turkish</nationality>
+  <nationality>Tuvaluan</nationality>
+  <nationality>Ugandan</nationality>
+  <nationality>Ukrainian</nationality>
+  <nationality>Uruguayan</nationality>
+  <nationality>Uzbekistani</nationality>
+  <nationality>Venezuelan</nationality>
+  <nationality>Vietnamese</nationality>
+  <nationality>Welsh</nationality>
+  <nationality>Yemenite</nationality>
+  <nationality>Zambian</nationality>
+  <nationality>Zimbabwean</nationality>
+</nationalities>

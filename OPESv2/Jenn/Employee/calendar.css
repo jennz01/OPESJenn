@@ -1,0 +1,178 @@
+﻿.floatLeft {
+    float: left;
+}
+ 
+.floatRight {
+    float: right;
+}
+ 
+.controls {
+    margin-top: 10px;
+}
+ 
+#example .demo-container {
+    width: 280px;
+}
+ 
+.RadCalendar {
+    width: 100%;
+}
+ 
+#example.background-metrotouch .demo-container,
+#example.background-blackmetrotouch .demo-container,
+#example.background-bootstrap .demo-container,
+#example.background-material .demo-container {
+    width: 370px;
+}
+ 
+.title,
+.picked-date {
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    display: block;
+    text-transform: uppercase;
+}
+ 
+ 
+.title {
+    font-size: 14px;
+    height: auto;
+    line-height: 30px;
+}
+ 
+.picked-date {
+    text-transform: none;
+    text-align: center;
+    background: transparent url("Images/sprite.png") no-repeat 100% 0;
+    position: relative;
+    width: 100%;
+    color: #ffffff;
+}
+ 
+* + html .picked-date {
+    margin-bottom: -2px;
+}
+ 
+    .picked-date em {
+        position: absolute;
+        width: 53px;
+        height: 74px;
+        top: -34px;
+        left: -31px;
+        background: transparent url("Images/sprite.png") no-repeat -237px -194px;
+    }
+ 
+.background-metrotouch .picked-date,
+.background-blackmetrotouch .picked-date,
+.background-material .picked-date {
+    padding-right: 15px;
+}
+ 
+.background-bootstrap .picked-date {
+    background-position: 100% -41px;
+    padding-right: 14px;
+}
+ 
+    .background-bootstrap .picked-date em {
+        background-position: -304px -130px;
+        height: 40px;
+        width: 50px;
+        left: -15px;
+        top: 0;
+    }
+ 
+.background-web20 .picked-date,
+.background-telerik .picked-date,
+.background-default .picked-date,
+.background-black .picked-date {
+    background: #8bc650;
+}
+ 
+    .background-web20 .picked-date em,
+    .background-telerik .picked-date em,
+    .background-default .picked-date em,
+    .background-black .picked-date em {
+        background-position: -223px -122px;
+        height: 72px;
+        width: 63px;
+        left: -16px;
+        top: -32px;
+    }
+ 
+.background-windows7 .picked-date,
+.background-glow .picked-date {
+    background: #00a5a0;
+}
+ 
+    .background-windows7 .picked-date em,
+    .background-glow .picked-date em {
+        background-position: -79px -123px;
+        height: 84px;
+        width: 80px;
+        left: -10px;
+        top: -43px;
+    }
+ 
+.background-vista .picked-date,
+.background-office2010silver .picked-date,
+.background-office2010black .picked-date,
+.background-office2007 .picked-date,
+.background-metro .picked-date {
+    background-position: 100% -82px;
+    padding-right: 14px;
+}
+ 
+    .background-vista .picked-date em,
+    .background-office2010silver .picked-date em,
+    .background-office2010black .picked-date em,
+    .background-office2007 .picked-date em,
+    .background-metro .picked-date em {
+        background-position: -310px -194px;
+        height: 75px;
+        width: 53px;
+        left: -31px;
+        top: -35px;
+    }
+ 
+.background-silk .picked-date,
+.background-webblue .picked-date,
+.background-office2010blue .picked-date {
+    background: #fec00f;
+}
+ 
+    .background-silk .picked-date em,
+    .background-webblue .picked-date em,
+    .background-office2010blue .picked-date em {
+        background-position: -159px -123px;
+        height: 78px;
+        width: 64px;
+        left: -30px;
+        top: -28px;
+    }
+ 
+.background-sunset .picked-date,
+.background-simple .picked-date,
+.background-outlook .picked-date {
+    background: #404041;
+}
+ 
+    .background-sunset .picked-date em,
+    .background-simple .picked-date em,
+    .background-outlook .picked-date em {
+        background-position: 0 -123px;
+        height: 75px;
+        width: 79px;
+        left: -16px;
+        top: -31px;
+    }
+ 
+#example div.demo-container {
+    background: transparent url("Images/shadow.png") no-repeat scroll 100% 100%;
+    padding: 0 14px 17px 0;
+    *padding: 0 14px 14px 0;
+}
+ 
+div.RadCalendar {
+    box-shadow: none;
+}
